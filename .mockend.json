@@ -20,18 +20,18 @@
     },
     "country": {
     "int": {
-    "min": 0,
-    "max": 1000}
+    "min": 1,
+    "max": 4}
     },
     "city": {
     "int": {
-    "min": 0,
-    "max": 1000}
+    "min": 1,
+    "max": 4}
     },
     "sector": {
     "int": {
-    "min": 0,
-    "max": 1000}
+    "min": 1,
+    "max": 4}
     }
   }
 }
