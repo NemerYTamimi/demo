@@ -1,5 +1,6 @@
 {
   "Job": {
+    "id": "id",
     "title": {
       "loremWords": {
         "minLength": 5,
