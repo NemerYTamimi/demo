@@ -1,6 +1,11 @@
 {
   "Job": {
-    "id": "id",
+    "id": {
+      "int": {
+      "min":1,
+        "max":10000
+      }
+    },
     "title": {
       "loremWords": {
         "minLength": 5,
