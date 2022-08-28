@@ -13,13 +13,19 @@
       }
     },
     "country": {
-    "int": {}
+    "int": {
+    "min": 0,
+    "max": 1000}
     },
     "city": {
-    "int": {}
+    "int": {
+    "min": 0,
+    "max": 1000}
     },
     "sector": {
-    "int": {}
-    }
+    "int": {
+    "min": 0,
+    "max": 1000}
+    },
   }
 }
