@@ -27,5 +27,38 @@
     "min": 0,
     "max": 1000}
     }
-  }
+  },
+  "country":{
+    "key": {
+      "int":{
+        "min": 0,
+        "max": 100
+      }
+    },
+    "value":{
+      "string": {}
+    }
+  },
+    "city":{
+    "key": {
+      "int":{
+        "min": 0,
+        "max": 100
+      }
+    },
+    "value":{
+      "string": {}
+    }
+  },
+    "sector":{
+    "key": {
+      "int":{
+        "min": 0,
+        "max": 100
+      }
+    },
+    "value":{
+      "string": {}
+    }
+  },
 }
