@@ -12,8 +12,14 @@
         "maxLength": 20
       }
     },
-    "country": "number",
-    "city": "number",
-    "sector": "number"
+    "country": {
+    "int": {}
+    },
+    "city": {
+    "int": {}
+    },
+    "sector": {
+    "int": {}
+    }
   }
 }
