@@ -25,8 +25,8 @@
     },
     "city": {
     "int": {
-    "min": 1,
-    "max": 12}
+    "min": 100,
+    "max": 111}
     },
     "sector": {
     "int": {
